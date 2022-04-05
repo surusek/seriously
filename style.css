@@ -4,6 +4,10 @@
     padding: 0;
 }
 
-h1 {
-    color:brown;
+header {
+    display: flex;
+    height: 50vh;
+    width: 100%;
+    flex-direction: column;
+    background-color: aquamarine;
 }
