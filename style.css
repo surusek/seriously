@@ -11,6 +11,8 @@ header {
     width: 100%;
     flex-direction: column;
     background-color: aquamarine;
+    align-items: center;
+    justify-content: center;
 }
 
 h1 {
@@ -20,4 +22,8 @@ h1 {
 h2 {
     size: 16px;
     font-style: oblique;
+}
+
+h1, h2 {
+    padding-bottom: 16px;
 }
